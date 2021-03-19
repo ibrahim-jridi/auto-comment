@@ -1,4 +1,4 @@
-# auto-comment
+# auto-comment: u need to install python and the pyautogui (pip install pyautogui)
 import pyautogui
 import time
 
